@@ -1,1 +1,3 @@
 Content added by DEV1
+This is a new content in a new file by DEV2
+Content added by DEV2
